@@ -1,4 +1,4 @@
-# Project 18: Gradient Boosting Models for Car Price Prediction
+# Project 12: Gradient Boosting Models for Car Price Prediction
 
 ## Overview
 Rusty Bargain, a used car sales service, is developing an application to attract new customers. With this app, users can quickly determine the market value of their car. Given a dataset of car specifications, equipment versions, and prices, the goal was to build a model to determine the market value of a car.
